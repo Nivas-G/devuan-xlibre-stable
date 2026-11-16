@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: XLibre Stable Repository
+Label: XLibre Stable for Devuan
+Suite: excalibur
+Codename: excalibur
+Version: 6
+Date: Mon, 16 Nov 2026 17:48:13 UTC
+Architectures: amd64
+Components: main
+Description: XLibre 25.1 stable packages for Devuan Excalibur
+MD5Sum:
+ 090a02845a5d40d4468d3117c52fe85a 9009 main/binary-amd64/Packages
+ 9b57c80ab544e86f4477531b15c7d390 2939 main/binary-amd64/Packages.gz
+ b2cea6b3f6ca46f6d75156f218097a47 193 main/binary-amd64/Release
+ 1f1716782a58c403822e039d3f3fcd00 9861 main/source/Sources
+ 83d324d340ac0c2cbaa481bf322196da 2954 main/source/Sources.gz
+ e6e5ac6ebbe87220484c3c91c9b98cde 194 main/source/Release
+SHA1:
+ f47690fdcd6f00228a5663cb36a2bd906296a6b4 9009 main/binary-amd64/Packages
+ 9ef049a73d6c901e5396285e8f81ace29adc297a 2939 main/binary-amd64/Packages.gz
+ 8e702fe3b568ad4d7bc4656034ca089832259077 193 main/binary-amd64/Release
+ 910c514ce59db243c1e59dbf06e4e2984ae15e3a 9861 main/source/Sources
+ e0850ba8da9dcff2c3ab7c7714e9d6b818f8c102 2954 main/source/Sources.gz
+ b3059f159795fd010b01d104946712e762b2a036 194 main/source/Release
+SHA256:
+ cd2496e32c1370f1ed565f889792556ee25f39a60d5016f0914f554bcd689e98 9009 main/binary-amd64/Packages
+ 935e7b7bafb0f3dfe5555bb2553355fbb0274a878d2ff4cd5b8f23d3fb644072 2939 main/binary-amd64/Packages.gz
+ ffb2b3bf9c2386b827891a34efde7ab73a147398b8e01db759ab584ba9a1f67e 193 main/binary-amd64/Release
+ 50f03da7c039b43f4ca4a33fa0156b460fbfe1790b4313541822acea4e42cde2 9861 main/source/Sources
+ 347e87e0cd492a6e7c5da760b7e4835e31a34d69de704293e61215b80f139ecf 2954 main/source/Sources.gz
+ bf2e2500cbc9cff1f5d2dabcd6e312cdad980750d6e93cae0ceb4506f638dec6 194 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkFa24/gzKfAxdn8Xs3WPTN5BPxIFAmr7Qd0ACgkQs3WPTN5B
+PxL9MBAAv65izGK/ul7AhxSn6jfbn420f/yWysJFTOdVssb/xfakyyj8CIY5qC5N
+m3RmRy1hdKEyLRyzgM06t8AZcPlZCCLlr7mlaqEB0eHYmU/nLX1envpmdoBBTLKk
+BLv0Xx7Jeqm7x1Om3S9E3xKRwH8UwzInANDflQ3IYb+wxv5mO45TmD/YbUOnzLyl
+Uj6WzyINi8+ZYOD/3PvvkqlOKhZqFBm7fSJCi+XjWq8guOZan+tG1Y1SnB9qg9Io
+ElDnWG7F5fLRfJ/XcBsoLV6RXfw5mYO/hyT4yZV3XTQZQEeBwZxXfb+XXF8f/Mk8
+YuM0OG7rjYRnkcaiaFcF4VmcL6PBhKap4o856alAOqxBfbWgWdzXsJFJ6LCMiipg
+35yDPtDakzRuYDZQya5KOGK6l+zRl6CvVjN8O43E8LlujGfQ7OiDLZAQeI7GUJpq
+hNpP5XTecJNfCMQ/44MJiu3pf+M8jhnFMWd/nSch75SBU7c3LXytd68yLgKhDlmI
+SVNNKQYdxKVnDEbAS8A9C3FKiG5MIegsSlZpE5OmjO8h3uFqnoCT+ewnyq0n8n9U
+IWiPs6+rCycpezL6/kjnNdEr3OURKUW1myLI724wZcmPm7FzRMJQtNon0SNwOPP+
+0F97J05h9IYu4oDRGOic89HvHpiKq3Sbq3TzO7x+6W5xvwLXJcA=
+=ZL93
+-----END PGP SIGNATURE-----

@@ -1,0 +1,7 @@
+Archive: excalibur
+Version: 6
+Component: main
+Origin: XLibre Stable Repository
+Label: XLibre Stable for Devuan
+Architecture: source
+Description: XLibre 25.1 stable packages for Devuan Excalibur
